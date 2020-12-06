@@ -1,0 +1,5 @@
+.env
+config.php
+tmp
+.idea
+.DS_Store
